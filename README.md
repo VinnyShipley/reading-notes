@@ -14,3 +14,6 @@ As I understand it, growth midset is the understanding that knowledge and intell
  <img src="https://3.bp.blogspot.com/-drleLXFA3RM/VwTX1PgHhJI/AAAAAAAAAKU/FeBoG7dzJ7UWQvo46ZdPwTBt8b5Eg-IDw/s1600/Screen%2BShot%2B2016-04-06%2Bat%2B9.32.38%2BPM.png" height="500" width="700"/>
  
 * Stay positive! Learning is a process, and no one started out kowing anything about anything. Celebrate in the success of others and let it inspire your own success
+
+### Contact 
+vinnyshipley@gmail.com
