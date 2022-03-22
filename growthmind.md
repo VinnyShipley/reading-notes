@@ -11,4 +11,4 @@
 
 - **Stay positive!** Learning is a process, and no one started out kowing anything about anything. Celebrate in the success of others and let it inspire your own success
 
-[BAck to main page](README.md)
+[Back to main page](README.md)
