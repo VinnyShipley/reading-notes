@@ -2,7 +2,7 @@
 
 ## **Wireframing**
 
-Dont be afraid to look to other sites that might be doing similar things to take inspiration from how they are laid out.
+Do not be afraid to look to other sites that might be doing similar things to take inspiration from how they are laid out.
 The sleeker the UX the longer people will stay on the site, so make it as easy to understand what you are trying to convey. To that end, know what you are trying to do with the site before you setout to make it.
 At the wireframe stage, few details. This is a blue sky spitball stage, so keep it lean and big picture. Contantly ask if the user will be able to easily use it.Keep it simple and obvious. Nothing is worse than getting frustrated at a website that is layed out poorly.Once there turn the wireframe into a prototype and then tweak and fill in fronm there. Clarity, Simplicity, Confidence.
 
