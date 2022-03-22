@@ -2,6 +2,11 @@
 
 ## Github Page: https://github.com/VinnyShipley
 
+## Table Of Contents
+
+* [Learning Markdown](class01.md)
+* [The Coder's Computer](class02.md)
+
 ## Bio
 
 I am a currently a bartender based in Bellingham Washington, but am excited for the pivot out of the restaurant industry into the tech industry. I love to read (is anyone else excited that Cormac McCarthy is releasing two novels by the end of the year?!), enjoy the outdoors, and try not to sound boring in personal bios. Look, there's a picture of me before covid destroyed everything we hold normal, right below this text!
