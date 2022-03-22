@@ -8,6 +8,7 @@
 * [Learning Markdown](class01.md)
 * [The Coder's Computer](class02.md)
 * [VSCode & Github](gitlearn.md)
+* [Wireframing, HTML, and Semantics](class04.md)
 
 ## Bio
 
