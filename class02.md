@@ -1,4 +1,3 @@
-#Learning Markdown#
+# **The Coder's Computer**
 
-##The Basics## 
-
+> ## **Or How I Stopped Worrying and Learned to Love Terminals**
