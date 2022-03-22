@@ -8,5 +8,4 @@ This is a pretty big step in the coding process in my opinion. Not only am I abl
 
 ## Attention to Detail
 
-
 [Back to main page](README.md)
