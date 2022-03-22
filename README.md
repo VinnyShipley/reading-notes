@@ -7,6 +7,7 @@
 * [Growth Mindset](growthmind.md)
 * [Learning Markdown](class01.md)
 * [The Coder's Computer](class02.md)
+* [VSCode & Github](gitlearn.md)
 
 ## Bio
 
