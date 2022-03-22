@@ -6,5 +6,4 @@ While it is similar to HTML, Markdown seems to streamline a lot of what HTML tri
 
 ### **Herein are some examples**
 
-
 [Back to main page](README.md)
