@@ -1,9 +1,11 @@
-# **Growth Mindset Practices**
+# **Growth Mindset Practices** #
 
-## Growth Mindset Can Be Shown by These Three Points
+## **Growth Mindset Can Be Shown by These Three Points** ##
 
 - Follow any thought of I don't know or I don't understand with * yet'-
+
   - I don't understand this concept... yet
+
 
 - Understand and trust in the process of the **Learning Pit**, shown below
 
