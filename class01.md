@@ -12,7 +12,7 @@ But what if I have a bunch of datapoints that I need to put into an:
 
 * Ordered list
 
-* Unordered iist
+* Unordered list
 
 * And a third thing?
 
