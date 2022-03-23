@@ -35,4 +35,3 @@ To check the status of the files within your system, simply use the lifeguard co
 Git status allows the user to track where all modified files are in terms of their position in the workflow. Once the user knows the status of the files, specifically the modified ones, they can...
 
 Add, commit and push the files to incorporate them into the newest snapshot
-<!--fill the add commit and push info in later>
