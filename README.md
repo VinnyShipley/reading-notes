@@ -9,6 +9,7 @@
 * [The Coder's Computer](class02.md)
 * [VSCode & Github](gitlearn.md)
 * [Wireframing, HTML, and Semantics](class04.md)
+* [Git and You](read03.md)
 
 ## Bio
 
