@@ -14,10 +14,12 @@ In my own experience CSS is very much based off a trial and error system. Input 
 
 ## **Example Code**
 
-section.ham img{
+    section img{
+        border: solid white;
+        border-width: 3px;
+        width: 750px;
+        }
 
-    border: solid white;
-    border-width: 3px;
-    width: 750px;
+This code would change all the images contained within the section tag so they would have a solid white border, that border would be 3 pixels wide, and the width of the picture would be 750 pixels.git commi
 
 [Back to main page](README.md)
