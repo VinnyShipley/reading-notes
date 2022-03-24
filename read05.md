@@ -10,4 +10,14 @@ CSS makes websites engaging and easy to digest from a user point of view, and us
 
 The basic premise of using CSS is selecting an HTML element that you have already coded, and manipulating the look of that element. That is why it is so important to have good semantics within your HTML code. By giving a good understanding of what is where on the page within the HTML code, it is much easier to pick which specific element you want to manipulate in CSS.
 
+In my own experience CSS is very much based off a trial and error system. Input a value and see how it affects the output, tweak from there until it fits
+
+## **Example Code**
+
+section.ham img{
+
+    border: solid white;
+    border-width: 3px;
+    width: 750px;
+
 [Back to main page](README.md)
