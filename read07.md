@@ -4,6 +4,7 @@
 
 Control Flow is the order that computers execute statements in a script. This order is from the first line to the last line unless it encounters a structure or line of code that alters that order.
 
+
 ## **Functions in JavaScript**
 
 A funtion in JavaScript is a codeblock that can be invoked to do something. What that something is is up to the programmer. The sleekness of a function comes from the fact that entire scripts are contained within functions, and these functions can be placed anywhere in the code to carry out their purpose. 

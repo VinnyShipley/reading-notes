@@ -4,6 +4,7 @@
 
 While it is similar to HTML, the Markdown language seems to streamline a lot of what HTML tries to do.
 
+
 For example I made **this** word bold with nothing more than two asterisks on either side of the word with no spaces in between. *Wow, what an impressive technique! Oh my god! Is this all in italics simply by putting an asterisk on either end of what you want selcted?*
 
 ***Thats exactly what I'm saying, and now this is combining both of those effects with now three asterisks***
