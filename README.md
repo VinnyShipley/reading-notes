@@ -13,7 +13,7 @@
 * [CSS and the Joys of Style](read05.md)
 * [Javascript](read06.md)
 * [Programmig with JavScript](read07.md)
-* [Operators and Loops](read08.md")
+* [Operators and Loops](read08.md)
 
 ## Bio
 
