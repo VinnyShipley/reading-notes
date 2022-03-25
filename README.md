@@ -12,6 +12,8 @@
 * [Git and You](read03.md)
 * [CSS and the Joys of Style](read05.md)
 * [Javascript](read06.md)
+* [Programmig with JavScript](read07.md)
+
 ## Bio
 
 I am a currently a bartender based in Bellingham Washington, but am excited for the pivot out of the restaurant industry into the tech industry. I love to read (is anyone else excited that Cormac McCarthy is releasing two novels by the end of the year?!), enjoy the outdoors, and try not to sound boring in personal bios. Look, there's a picture of me before covid destroyed everything we hold normal, right below this text!
