@@ -6,20 +6,20 @@
 
 ## Code 102 Reading Notes
 
-* [Growth Mindset](growthmind.md)
-* [Learning Markdown](class01.md)
-* [The Coder's Computer](class02.md)
-* [VSCode & Github](gitlearn.md)
-* [Wireframing, HTML, and Semantics](class04.md)
-* [Git and You](read03.md)
-* [CSS and the Joys of Style](read05.md)
-* [Javascript](read06.md)
-* [Programmig with JavScript](read07.md)
-* [Operators and Loops](read08.md)
+* [Growth Mindset](102ReadingNotes/growthmind.md)
+* [Learning Markdown](102ReadingNotes/class01.md)
+* [The Coder's Computer](102ReadingNotes/class02.md)
+* [VSCode & Github](102ReadingNotes/gitlearn.md)
+* [Wireframing, HTML, and Semantics](102ReadingNotes/class04.md)
+* [Git and You](102ReadingNotes/read03.md)
+* [CSS and the Joys of Style](102ReadingNotes/read05.md)
+* [Javascript](102ReadingNotes/read06.md)
+* [Programmig with JavScript](102ReadingNotes/read07.md)
+* [Operators and Loops](102ReadingNotes/read08.md)
 
 ## Code 201 Reading Notes
 
-* [JavaScript, HTML, CSS Review](class-01.md)
+* [JavaScript, HTML, CSS Review](201ReadingNotes/class-01.md)
 
 ## Bio
 
