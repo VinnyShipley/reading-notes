@@ -19,7 +19,7 @@
 
 ## Code 201 Reading Notes
 
-* [Placeholder first reading](read201-1.md)
+* [Placeholder first reading](class-01.md)
 
 ## Bio
 
