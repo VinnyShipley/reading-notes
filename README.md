@@ -2,7 +2,9 @@
 
 ## Github Page: https://github.com/VinnyShipley
 
-## Table Of Contents
+## **Table Of Contents**
+
+## Code 102 Reading Notes
 
 * [Growth Mindset](growthmind.md)
 * [Learning Markdown](class01.md)
@@ -14,6 +16,10 @@
 * [Javascript](read06.md)
 * [Programmig with JavScript](read07.md)
 * [Operators and Loops](read08.md)
+
+## Code 201 Reading Notes
+
+* [Placeholder first reading](read201-1.md)
 
 ## Bio
 
