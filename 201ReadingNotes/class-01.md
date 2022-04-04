@@ -1,4 +1,4 @@
-# Duckett Reading #1
+# JavaScript, HTML, CSS Review
 
 ## **Summary**
 

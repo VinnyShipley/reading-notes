@@ -20,6 +20,7 @@
 ## Code 201 Reading Notes
 
 * [JavaScript, HTML, CSS Review](201ReadingNotes/class-01.md)
+* [Basics of HTML, CSS, and JS](201ReadingNotes/class-02.md)
 
 ## Bio
 
