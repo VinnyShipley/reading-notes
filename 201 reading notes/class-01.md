@@ -51,3 +51,5 @@ Also with this reading I found a lot of it to be review of 102, but with a more 
 
 * A couple times during the reading Duckett talks about how some people are writing code in HTML5 while it is still being created. I'm interestyed how someone writes code in a language that is actively being updated.
 * I don't fully understand the concept of the figure tag, it seems kind of like a nav tag that is just for images? Maybe it allows for easier classification on the CSS side of things?
+
+[Back to Main Page](README.md)

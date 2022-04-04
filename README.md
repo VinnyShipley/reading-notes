@@ -19,7 +19,7 @@
 
 ## Code 201 Reading Notes
 
-* [Placeholder first reading](class-01.md)
+* [JavaScript, HTML, CSS Review](class-01.md)
 
 ## Bio
 
