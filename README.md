@@ -22,6 +22,7 @@
 * [JavaScript, HTML, CSS Review](201ReadingNotes/class-01.md)
 * [Basics of HTML, CSS, and JS](201ReadingNotes/class-02.md)
 * [HTML Lists, Control Flow with JS, and the CSS Box Model](201ReadingNotes/class-03.md)
+* [HTML Links, JS Functions, and Intro to CSS Layout]()
 
 ## Bio
 
