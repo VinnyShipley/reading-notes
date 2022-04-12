@@ -25,6 +25,7 @@
 * [HTML Links, JS Functions, and Intro to CSS Layout](201ReadingNotes/class-04.md)
 * [Images, Color, Text](201ReadingNotes/class-05.md)
 * [Problem Domain, Objects, and the DOM](class-06.md)
+* [Object-Oriented Programming, HTML Tables](class-07.md)
 
 ## Bio
 
