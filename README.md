@@ -24,8 +24,9 @@
 * [HTML Lists, Control Flow with JS, and the CSS Box Model](201ReadingNotes/class-03.md)
 * [HTML Links, JS Functions, and Intro to CSS Layout](201ReadingNotes/class-04.md)
 * [Images, Color, Text](201ReadingNotes/class-05.md)
-* [Problem Domain, Objects, and the DOM](class-06.md)
-* [Object-Oriented Programming, HTML Tables](class-07.md)
+* [Problem Domain, Objects, and the DOM](201/ReadingNotes/class-06.md)
+* [Object-Oriented Programming, HTML Tables](201/ReadingNotes/class-07.md)
+* [CSS Layout](201/ReadingNotes/class-08.md)
 
 ## Bio
 
