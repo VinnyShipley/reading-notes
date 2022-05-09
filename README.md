@@ -33,6 +33,8 @@
 
 ## Code 301 - Intermediate Software Development
 
+* [Introduction to React and Components](301/class01.md)
+
 ## Bio
 
 I am a currently a bartender based in Bellingham Washington, but am excited for the pivot out of the restaurant industry into the tech industry. I love to read (is anyone else excited that Cormac McCarthy is releasing two novels by the end of the year?!), enjoy the outdoors, and try not to sound boring in personal bios.
