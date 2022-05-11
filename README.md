@@ -35,6 +35,7 @@
 
 * [Introduction to React and Components](301/class01.md)
 * [State and Props](301/class02.md)
+*[Passing Functions as Props](301/class03.md)
 
 ## Bio
 
