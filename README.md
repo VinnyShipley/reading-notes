@@ -38,6 +38,7 @@
 * [Passing Functions as Props](301/class03.md)
 * [React and Forms](301/class04.md)
 * [Putting it all Together](301/class05.md)
+* [Node.JS](301/class06.md)
 
 ## Bio
 
