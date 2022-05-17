@@ -39,6 +39,7 @@
 * [React and Forms](301/class04.md)
 * [Putting it all Together](301/class05.md)
 * [Node.JS](301/class06.md)
+* [REST](301/class07.md)
 
 ## Bio
 
