@@ -40,6 +40,7 @@
 * [Putting it all Together](301/class05.md)
 * [Node.JS](301/class06.md)
 * [REST](301/class07.md)
+* [API's](301/class08.md)
 
 ## Bio
 
