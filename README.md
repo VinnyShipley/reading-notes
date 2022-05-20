@@ -42,6 +42,7 @@
 * [REST](301/class07.md)
 * [API's](301/class08.md)
 * [Functional Programming](301/class09.md)
+* [Memory Storage](301/class10.md)
 
 ## Bio
 
