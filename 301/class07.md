@@ -4,7 +4,7 @@
 
 1. ***Who is Roy Fielding?**  A guy that helped write the first web servers and did research on why the web works the way it does.
 
-2. **Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?** Because the techniques today are used primarily to get information off of a a small amount of machines.
+2. **Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?** Because the techniques today are used primarily to get information off of a small amount of machines.
 
 3. **What is the HTTP protocol that Fielding and his friends created?** The HTTP protocol applies the right 'verbs' to the right 'nouns' in a request to a site. In this case verb would be an action being applied to the nouns, which would here mean URL.
 

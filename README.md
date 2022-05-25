@@ -45,6 +45,7 @@
 * [Memory Storage](301/class10.md)
 * [Mongo and Mongoose](301/class11.md)
 * [CRUD](301/class12.md)
+* [More CRUD](301/class13.md)
 
 ## Bio
 
