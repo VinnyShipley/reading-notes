@@ -46,6 +46,7 @@
 * [Mongo and Mongoose](301/class11.md)
 * [CRUD](301/class12.md)
 * [More CRUD](301/class13.md)
+* [Diversity and Inclusion in the Tech Industry](301/class14.md)
 
 ## Bio
 
