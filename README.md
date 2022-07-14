@@ -48,6 +48,8 @@
 * [More CRUD](301/class13.md)
 * [Diversity and Inclusion in the Tech Industry](301/class14.md)
 
+## Code 401 - Advanced Software Development
+
 ## Bio
 
 I am a currently a bartender based in Bellingham Washington, but am excited for the pivot out of the restaurant industry into the tech industry. I love to read (is anyone else excited that Cormac McCarthy is releasing two novels by the end of the year?!), enjoy the outdoors, and try not to sound boring in personal bios.
