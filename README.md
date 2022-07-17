@@ -50,6 +50,8 @@
 
 ## Code 401 - Advanced Software Development
 
+* [Growth Mindset Pt. 2](401/growthMindset.md)
+
 ## Bio
 
 I am a currently a bartender based in Bellingham Washington, but am excited for the pivot out of the restaurant industry into the tech industry. I love to read (is anyone else excited that Cormac McCarthy is releasing two novels by the end of the year?!), enjoy the outdoors, and try not to sound boring in personal bios.
