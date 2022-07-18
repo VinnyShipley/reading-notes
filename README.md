@@ -51,6 +51,7 @@
 ## Code 401 - Advanced Software Development
 
 * [Growth Mindset Pt. 2](401/growthMindset.md)
+* [SQL Introduction](401/SQL_Intro.md)
 
 ## Bio
 
