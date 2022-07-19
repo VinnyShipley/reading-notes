@@ -54,6 +54,7 @@
 * [SQL Introduction](401/SQL_Intro.md)
 * [Practice in the Terminal](401/Terminal_practice.md)
 * [Class 1](401/class01.md)
+* [Class 2](401/class02.md)
 
 ## Bio
 
