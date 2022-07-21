@@ -55,7 +55,8 @@
 * [Practice in the Terminal](401/Terminal_practice.md)
 * [Class 1](401/class01.md)
 * [Class 2](401/class02.md)
-* [Class 3](401/class04.md)
+* [Class 3](401/class03.md)
+* [Class 4](401/class04.md)
 
 ## Bio
 
