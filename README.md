@@ -58,10 +58,11 @@
 * [Class 3](401/class03.md)
 * [Class 4](401/class04.md)
 * [Class 6](401/class06.md)
+* [Class 7](401/class07.md)
 
 ## Bio
 
-I am a currently a bartender based in Bellingham Washington, but am excited for the pivot out of the restaurant industry into the tech industry. I love to read (is anyone else excited that Cormac McCarthy is releasing two novels by the end of the year?!), enjoy the outdoors, and try not to sound boring in personal bios.
+I am a currently a bartender based in Bellingham Washington, but I am excited for the pivot out of the restaurant industry into the tech industry. I love to read (is anyone else excited that Cormac McCarthy is releasing two novels by the end of the year?!), enjoy the outdoors, and try not to sound boring in personal bios.
 
 ### Contact
 
