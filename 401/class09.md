@@ -14,7 +14,7 @@ In edit mode, you can edit the contents of the cells in the markdown language. W
 
 ### What is NumPy
 
-[NumPy cheat sheet](https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python)
+[NumPy cheat sheet](https://s3.amazonaws.com/dq-blog-files/numpy-cheat-sheet.pdf)
 
 NumPy is a commonly used Python data analysis package that helps with math related functionality.
 
@@ -49,7 +49,7 @@ The slicing for the most part behaves like it does in vanilla python.
 
 Simply target the element you wish to target by giving its specific index position, and then use = to assign a value to that cell. This can also be done with entire rows or columns in the same fashion, it is all dependent on how specific you are when targeting the element or collection of elements.
 
-Dealing with multi-dimensional arrays is simply a matter of targeting the correct value in the correct group. Whether that group has subgroups is a matter of how multi-dimensional the array is. 
+Dealing with multi-dimensional arrays is simply a matter of targeting the correct value in the correct group. Whether that group has subgroups is a matter of how multi-dimensional the array is.
 
 ### Array operations
 
@@ -59,4 +59,44 @@ While you can do this with simply numbers (manipulating all the elements of an a
 
     wines[:,10] * wines[:,11]
 
-The code above would multiply all the rows from the 10th column with all the rows from the 11th column. Note that this can only work when each group of elected elements are the same size
+The code above would multiply all the rows from the 10th column with all the rows from the 11th column. Note that this can only work when each group of elected elements are the same size.
+
+### Broadcasting
+
+If the arrays being operated with each other are noth the same size, broadcasting takes place. Broadcasting takes these steps:
+
+* The last dimension of the arrays are compared.
+
+    * If the dimension lengths are equal, or one of the dimesnsions are equal (which would mean all of the cells in the last position of the other collection of cells would be multiplied by this specific cell), then we keep going
+
+    * Otherwise, an error is raised
+
+### NumPy Array methods
+
+* Sum method
+
+    * By using the .sum() method on a set of cells already passed through numpy, adding the .sum() method to the end of it will sum all of the cells specified
+
+* Mean method
+
+    * Finds the mean value of all specified cells passed into numpy
+
+* Std method
+    
+    * Finds the standard deviation of all specified cells passed into numpy
+
+* Min method
+    
+    * Finds the minimum value of all specified cells passed into numpy
+
+* Max method
+    
+    * Finds the maximum value of all specified cells passed into numpy
+
+### Comparison Operators
+
+By using comparison operators in the same method as the operator methods, you can get a list of boolean values back denoting whether the value in that list is true given that comparison operator.
+
+### Subsetting 
+
+By placing the comparison operator shown above in a new list of it's own, instead of getting back a list of boolean values, you will get back a set of those values that would return as true.
