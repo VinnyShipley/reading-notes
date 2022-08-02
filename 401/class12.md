@@ -80,3 +80,13 @@ Selection by position can why rows you want to pull the values of.
 ## Missing Data
 
 If a cell is missing in the dataframe, pandas primarily uses the np.nan to represent the missing spot.
+
+## Grouping
+
+Grouping consists of three steps:
+
+1. Splitting the data into groups based on some criteria
+
+2. Applying a function to each group independently
+
+3. Combining the results into a data structure
