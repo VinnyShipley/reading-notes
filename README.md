@@ -61,6 +61,8 @@
 * [Class 7](401/class07.md)
 * [Class 8](401/class08.md)
 * [Class 9](401/class09.md)
+* [Class 12](401/class12.md)
+* [Class 13](401/class13.md)
 
 ## Bio
 
