@@ -65,6 +65,8 @@
 * [Class 13](401/class13.md)
 * [Class 14](401/class14.md)
 * [Class 16](401/class16.md)
+* [Class 17](401/class17.md)
+
 ## Bio
 
 I am a currently a bartender based in Bellingham Washington, but I am excited for the pivot out of the restaurant industry into the tech industry. I love to read (is anyone else excited that Cormac McCarthy is releasing two novels by the end of the year?!), enjoy the outdoors, and try not to sound boring in personal bios.
