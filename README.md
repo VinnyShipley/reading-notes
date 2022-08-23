@@ -69,6 +69,7 @@
 * [Class 18](401/class18.md)
 * [Class 19](401/class19.md)
 * [Class 26](401/class26.md)
+* [Class 27](401/class27.md)
 
 ## Bio
 
