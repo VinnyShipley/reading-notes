@@ -71,6 +71,7 @@
 * [Class 26](401/class26.md)
 * [Class 27](401/class27.md)
 * [Class 28](401/class28.md)
+* [Class 31](401/class31.md)
 
 ## Bio
 
