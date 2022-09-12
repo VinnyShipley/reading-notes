@@ -76,6 +76,8 @@
 * [Class 33](401/class33.md)
 * [Class 34](401/class34.md)
 * [Class 36](401/class36.md)
+* [Class 38](401/class38.md)
+* [Class 39](401/class39.md)
 
 ## Bio
 
